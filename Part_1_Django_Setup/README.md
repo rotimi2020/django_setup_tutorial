@@ -76,14 +76,16 @@ Open your browser and go to:
 http://127.0.0.1:8000/
 
 You should see the Django success page.
+
 ---
 
-Notes
+Notes :
 
 Do NOT upload venv/ — it is ignored via .gitignore
 
 Use requirements.txt to reinstall dependencies:
 
 pip install -r requirements.txt
+
 
 
