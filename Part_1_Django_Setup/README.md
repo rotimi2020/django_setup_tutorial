@@ -23,7 +23,6 @@ In this tutorial, you will:
 
 ## Step 1 — Create Project Folder
 
-```bash
 mkdir Part_1_Django_Setup
 cd Part_1_Django_Setup
 
@@ -86,4 +85,5 @@ Do NOT upload venv/ — it is ignored via .gitignore
 Use requirements.txt to reinstall dependencies:
 
 pip install -r requirements.txt
+
 
