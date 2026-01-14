@@ -18,18 +18,18 @@ In this video, we cover:
 ## Folder / App Structure
 
 django_setup_tutorial/
-├─ core/
-│ ├─ init.py
-│ ├─ admin.py
-│ ├─ apps.py
-│ ├─ models.py
-│ ├─ tests.py
-│ └─ views.py
-├─ config/
-│ └─ ... (project files)
-├─ manage.py
-├─ requirements.txt
-└─ README.md
+core/
+init.py
+admin.py
+apps.py
+models.py
+tests.py
+views.py
+config/
+(project files)
+manage.py
+requirements.txt
+README.md
 
 
 > Note: The `core` app was created in Part 1 using:
